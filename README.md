@@ -1,11 +1,11 @@
 # RusRus
 
-# Requirements
+## Requirements
 
  - Docker
 
 
-# Depend on
+## Depend on
 
 https://yew.rs
 
@@ -23,7 +23,7 @@ docker run -p 8080:8080 --rm -it -v $(pwd):/app -w /app/rusrus -e USER=username 
 docker logs -f rusrus_container
 ```
 
-# Thanks
+## Thanks
 
  - PuyoPuyo Algorithm Sample: https://puyo.sega.jp/program_2020/
 
