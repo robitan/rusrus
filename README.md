@@ -7,7 +7,7 @@
 
 ## Depend on
 
-[Yew ver.0.18](https://yew.rs)
+[Yew ver 0.18.0](https://yew.rs/docs/0.18.0/getting-started/project-setup/introduction)
 
 
 ## Usase
