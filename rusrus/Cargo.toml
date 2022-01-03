@@ -1,0 +1,9 @@
+[package]
+name = "rusrus"
+version = "0.1.0"
+edition = "2021"
+assets = "assets"
+
+[dependencies]
+yew = "0.18"
+js-sys = "0.3"
