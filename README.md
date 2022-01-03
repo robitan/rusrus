@@ -7,7 +7,7 @@
 
 ## Depend on
 
-https://yew.rs
+[Yew ver.0.18](https://yew.rs)
 
 
 ## Usase
