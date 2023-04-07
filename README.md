@@ -10,7 +10,7 @@
 [Yew ver 0.18.0](https://yew.rs/docs/0.18.0/getting-started/project-setup/introduction)
 
 
-## Usase
+## Usage
 
 ```
 docker build -t rusrus .
